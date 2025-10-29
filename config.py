@@ -7,6 +7,8 @@
 
 #Voltage sensor ADC pin
 
+VOLTAGE_PIN = 34
+
 
 #LED color sensor pins
 

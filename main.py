@@ -1,6 +1,7 @@
 from enes100 import enes100
 import config
 from pid import PID
+from voltageDetector import VoltageDetector
 import motion
 import math_utils
 import time
